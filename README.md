@@ -64,6 +64,7 @@ Create stunning visuals without design school or expensive software.
 ### AI Design Tools
 - **[Midjourney](https://midjourney.com)** - The king of AI art generation.
 - **[DALL-E 3](https://openai.com/dall-e-3)** - OpenAI's image generator, great for concepts.
+- **[GPT Image 2](https://gptimage2.asia/)** - Browser-based AI image generation and editing for branded visuals, product shots, and social assets.
 - **[Canva AI](https://canva.com)** - AI-powered design for everyone.
 - **[Adobe Firefly](https://firefly.adobe.com)** - Integrated into Creative Cloud.
 
