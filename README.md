@@ -47,6 +47,7 @@ Transform ideas into working code without years of programming experience.
 - **[v0 by Vercel](https://v0.dev)** - Generate UI components from descriptions.
 - **[GitHub Copilot](https://github.com/features/copilot)** - Your AI pair programmer.
 - **[Windsurf](https://codeium.com/windsurf)** - Free AI coding with your own API keys.
+- **[agent-qa](https://vostride.com)** - Plain-language web and mobile testing with persistent memory and validated self-improvement (early stage; Node.js 24+).
 
 ### No-Code AI Builders
 - **[Bubble](https://bubble.io)** - Build full web apps visually with AI assistance.
